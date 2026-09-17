@@ -1,0 +1,108 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx                                                                                                              xx                                           
+xx                               x-Invaders (c) 2026, v1.0.0                              xx           
+xx                                                                                                              xx                                          
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Open-source software. Free for personal or commercial use.
+Source files are available at:
+https://www.vt-soft.com/x-invaders
+
+(For more free software visit https://www.vt-soft.com.)
+
+Customise the game for your own purposes:
+-----------------------------------------------------------------------------
+(Even non-developers can modify this game within a few minutes.)
+
+1. You can modify the file "game-strings.json" and translate
+the game into your language.
+You will find this file in the Program Files folder next to
+xInvaders.exe. Feel free to change the hyperlink
+to your own website or social media as well.
+
+2. You can also replace the UFO and mine images with your own
+pictures. Upload ufo1.png, ufo2.png, ufo3.png, mine1.png,
+mine2.png, and deathstar.png into the PNG folder.
+Create PNG folder in the same directory where xInvaders.exe
+is stored.
+
+Ideal dimensions: UFOs 80x40 (or 80x80) pixels, mines 60x60
+pixels, and Death Star 90x90 pixels.
+
+3. You may then zip the files or create an installation file for the
+modified game and share it wherever you like.
+
+4. You can add some texts at the beginning of this file,
+however do not modify the rest of the game-credits.txt file.
+
+
+Credits:
+==============================
+
+
+Textures:
+--------------------------
+
+Rocket: Image by Freepik
+https://www.freepik.com/free-vector/
+modern-spaceship-collection-with-flat-design_3016749.htm
+
+Rocket flame:
+https://www.gamedevmarket.net/asset/fire-flame-animation
+
+UFO:
+https://pixabay.com/vectors/spaceship-alien-saucer-cartoon-309153/
+
+Mines:
+https://freesvg.org/vector-image-of-cartoon-sea-mine
+
+Explosion:
+https://opengameart.org/content/lots-of-game-effects
+"Explosion25" by Soluna Software, Licensed CC0
+
+Death Star:
+https://opengameart.org/content/space-starter-kit
+"Space Starter Kit" by CruzR, Licensed CC0
+
+
+Music:
+--------------------------
+
+Music by OBLIDIVM
+http://oblidivmmusic.blogspot.com.es/
+https://opengameart.org/content/space-shooter-music
+"Space Heroes" by Oblidivm, Licensed CC-BY-3.0
+
+
+Sounds:
+--------------------------
+
+https://mixkit.co
+
+mixkit-big-fire-magic-swoosh-1327.wav
+mixkit-blast-hit-with-echo-2186.wav
+mixkit-laser-weapon-shot-1681.wav
+mixkit-sea-mine-explosion-1184.wav
+mixkit-winning-a-coin-video-game-2069.wav
+
+Death flash sound from the Yo Frankie! game.
+https://opengameart.org/content/big-explosion
+By Blender Foundation, Licensed CC-BY-3.0
+
+
+Fonts:
+--------------------------
+https://fonts.google.com/specimen/Rubik+80s+Fade
+https://fonts.google.com/specimen/Open+Sans
+
+
+Enjoy the game!
+
+
+   
+    
+
+
+
+
+

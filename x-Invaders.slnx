@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="Publish" />
+    <BuildType Name="Release" />
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="xInvaders.csproj">
+    <Platform Solution="*|x64" Project="x64" />
+    <Platform Solution="Publish|Any CPU" Project="x64" />
+  </Project>
+</Solution>
