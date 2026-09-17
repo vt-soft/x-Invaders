@@ -1,6 +1,6 @@
 # x-Invaders | Space shooter game
 
-## Platform
+## OS
 Windows
 
 ## Customize the game for your purposes
